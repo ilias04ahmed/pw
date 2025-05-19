@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="buceo" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>buceo</name>
+    <trkseg>
+      <trkpt lat="28.5" lon="-13.86"><ele>700</ele></trkpt>
+      <trkpt lat="28.501" lon="-13.861"><ele>700</ele></trkpt>
+      <trkpt lat="28.502" lon="-13.862"><ele>700</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

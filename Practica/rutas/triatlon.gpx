@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="triatlon" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>triatlon</name>
+    <trkseg>
+      <trkpt lat="41.387" lon="2.1701"><ele>700</ele></trkpt>
+      <trkpt lat="41.39" lon="2.175"><ele>700</ele></trkpt>
+      <trkpt lat="41.3925" lon="2.18"><ele>700</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

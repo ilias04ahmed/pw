@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="campo" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>campo</name>
+    <trkseg>
+      <trkpt lat="37.25" lon="-3.61"><ele>700</ele></trkpt>
+      <trkpt lat="37.252" lon="-3.608"><ele>700</ele></trkpt>
+      <trkpt lat="37.254" lon="-3.606"><ele>700</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="amanecer" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>amanecer</name>
+    <trkseg>
+      <trkpt lat="43.3623" lon="-8.4115"><ele>700</ele></trkpt>
+      <trkpt lat="43.3635" lon="-8.41"><ele>700</ele></trkpt>
+      <trkpt lat="43.365" lon="-8.4085"><ele>700</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
